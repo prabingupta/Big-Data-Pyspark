@@ -5,4 +5,4 @@ transform_output/
 extract_output/
 venv/
 .venv/
-.DS_Store/
+.DS_Store/.DS_Store
